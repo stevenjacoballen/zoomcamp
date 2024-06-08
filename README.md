@@ -1,3 +1,3 @@
 # zoomcamp
 
-This is an examples
+This is an example
